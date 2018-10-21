@@ -1,0 +1,26 @@
+{
+  "name": "linear-model",
+  "version": "1.0.0",
+  "description": "Generates a linear model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danVatnik/linear-model.git"
+  },
+  "keywords": [
+    "linear",
+    "model"
+  ],
+  "author": "Dan Vatnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danVatnik/linear-model/issues"
+  },
+  "homepage": "https://github.com/danVatnik/linear-model#readme",
+  "dependencies": {
+    "mathjs": "^5.2.1"
+  }
+}
